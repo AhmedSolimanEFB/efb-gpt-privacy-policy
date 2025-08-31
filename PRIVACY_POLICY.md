@@ -62,8 +62,6 @@ You have the right to:
 - Ask for clarification about how your data is handled.  
 - Opt out of using the service at any time.  
 
-Requests can be made via **[Insert Contact Email]**.
-
 ---
 
 ## 7. Third-Party Services
