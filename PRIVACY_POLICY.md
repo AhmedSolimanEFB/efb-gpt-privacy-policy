@@ -91,8 +91,8 @@ We may update this Privacy Policy from time to time. The “Last Updated” date
 ## 10. Contact Us
 If you have questions about this Privacy Policy or how your data is used, please contact:  
 
-**[Your Name / Organization]**  
-📧 Email: [Insert Contact Email]  
-🌐 Website: [Insert Website]  
+**Ahmed Soliman / Egyptian Food Bank**  
+📧 Email: ahmed.soliman@efb.eg
+🌐 Website: https://www.efb.eg/
 
 ---
