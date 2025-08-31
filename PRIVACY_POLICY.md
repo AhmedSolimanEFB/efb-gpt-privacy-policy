@@ -1,7 +1,5 @@
 # Privacy Policy for ClickAPI Custom GPT
 
-**Effective Date:** [Insert Date]  
-**Last Updated:** [Insert Date]  
 
 We respect your privacy and are committed to protecting your personal data. This Privacy Policy explains how information is collected, used, and protected when using our Custom GPT integrated with the ClickUp API (“ClickAPI”).
 
